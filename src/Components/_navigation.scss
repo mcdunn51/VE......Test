@@ -1,0 +1,10 @@
+#navigationWrapper {
+  .dropdown-toggle::after {
+    display: none;
+  }
+
+  .navbar {
+    justify-content: flex-end;
+    position: static;
+  }
+}
